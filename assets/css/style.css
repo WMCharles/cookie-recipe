@@ -1,0 +1,13 @@
+body {
+    background-color: magenta;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    padding: 20px;
+    text-align: center;
+    list-style: none;
+}
+
+ul, ol {
+    list-style-type: none;
+}
